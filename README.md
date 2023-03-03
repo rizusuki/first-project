@@ -53,3 +53,11 @@ a blog, where members can share their thoughts and experiences related to fashio
   - I've also tested my website through developers tool Lighthouse. 
 
 ![2023-03-03 (16)](https://user-images.githubusercontent.com/121928390/222644994-c258a72c-c91b-4deb-9d48-357336684bf0.png)
+
+# Credits 
+
+  - The photos I used for this project is taken from https://www.pexels.com/@anete-lusina/.
+
+# Deployment 
+
+  - This project is deployed to GitHub
