@@ -21,8 +21,16 @@ a blog, where members can share their thoughts and experiences related to fashio
 
 ![2023-03-03 (20)](https://user-images.githubusercontent.com/121928390/222640822-4cb3c93f-f937-43ac-8ff7-df514e86d641.png)
 
-• About page
+• About Page
 
   - The about section provides information about the club and what we offer our members.
 
 ![2023-03-03 (19)](https://user-images.githubusercontent.com/121928390/222641583-e6ec6c5d-612d-4634-bbcd-9a58e780f4d2.png)
+
+• Sign up Page
+
+  - This page contains a sign up for people interested in joining our club. 
+  - The form contaiins, Name, Phone number and Email adress.
+  - Also a message bar for people to leave a message. 
+
+
