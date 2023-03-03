@@ -3,4 +3,5 @@ The Stockholm Fashion Club was created to bring together people who are passiona
 
 Membership is open to anyone who is interested in fashion and wants to be part of our community. Our website provides information about membership benefits, fees, and how to apply.
 a blog, where members can share their thoughts and experiences related to fashion. We encourage members to participate in our community and engage with each other through our website and social media channels.
+
 ![2023-03-03 (11)](https://user-images.githubusercontent.com/121928390/222636774-186cb44a-e04b-47fc-84e0-0714ae34b6a0.png)
