@@ -10,3 +10,12 @@ a blog, where members can share their thoughts and experiences related to fashio
 
 • Nagvigation Bar
 
+  - Located at the top of the page.
+  - Shows the logo on the top right corner and the menu on the top left corner.
+  - Contains links to  the different sections of the website which are the Home page, About page and Sign up page.
+
+• Header 
+
+  - contains the main image of the website.
+  - the section welcomes viewers to the page.
+
