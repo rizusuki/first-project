@@ -25,3 +25,4 @@ a blog, where members can share their thoughts and experiences related to fashio
 
   - The about section provides information about the club and what we offer our members.
 
+![2023-03-03 (19)](https://user-images.githubusercontent.com/121928390/222641583-e6ec6c5d-612d-4634-bbcd-9a58e780f4d2.png)
