@@ -41,3 +41,13 @@ a blog, where members can share their thoughts and experiences related to fashio
   - The footer contains adress, email adress, phone number and social media links.
 
 ![2023-03-03 (22)](https://user-images.githubusercontent.com/121928390/222642899-2be29595-0772-4d9a-ab85-798bdb602d8b.png)
+
+# Testing 
+
+  - I've tested that the project is responsive and all the buttons work in the website.
+
+# Validator Testing
+
+  - I've tested my HTML code through the official W3C Validator and there was no errors found.
+  - I've tested my CSS code through the official Jigsaw Validator and there was no errors found.
+  - I've also tested my website through developers tool Lighthouse. 
