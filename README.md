@@ -51,3 +51,5 @@ a blog, where members can share their thoughts and experiences related to fashio
   - I've tested my HTML code through the official W3C Validator and there was no errors found.
   - I've tested my CSS code through the official Jigsaw Validator and there was no errors found.
   - I've also tested my website through developers tool Lighthouse. 
+
+![2023-03-03 (16)](https://user-images.githubusercontent.com/121928390/222644994-c258a72c-c91b-4deb-9d48-357336684bf0.png)
