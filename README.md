@@ -40,4 +40,4 @@ a blog, where members can share their thoughts and experiences related to fashio
   - Contains the adress and contact information.
   - The footer contains adress, email adress, phone number and social media links.
 
-
+![2023-03-03 (22)](https://user-images.githubusercontent.com/121928390/222642899-2be29595-0772-4d9a-ab85-798bdb602d8b.png)
