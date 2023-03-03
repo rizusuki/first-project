@@ -16,7 +16,12 @@ a blog, where members can share their thoughts and experiences related to fashio
 
 • Header 
 
-  - contains the main image of the website.
-  - the section welcomes viewers to the page.
+  - Contains the main image of the website.
+  - The section welcomes viewers to the page.
 
 ![2023-03-03 (20)](https://user-images.githubusercontent.com/121928390/222640822-4cb3c93f-f937-43ac-8ff7-df514e86d641.png)
+
+• About page
+
+  - The about section provides information about the club and what we offer our members.
+
